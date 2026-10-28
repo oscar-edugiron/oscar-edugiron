@@ -94,8 +94,8 @@ Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la <strong>UNICAH<
 </p>
 
 <div align="center">
-  <a href="https://github.com/oscareduardogironcorrales-lang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscareduardogironcorrales-lang&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <a href="https://github.com/oscar-edugiron">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscar-edugiron&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscareduardogironcorrales-lang&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
